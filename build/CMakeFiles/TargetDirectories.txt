@@ -1,0 +1,3 @@
+/home/sudonym/repos/3dEngine/build/CMakeFiles/3dEngine.dir
+/home/sudonym/repos/3dEngine/build/CMakeFiles/edit_cache.dir
+/home/sudonym/repos/3dEngine/build/CMakeFiles/rebuild_cache.dir

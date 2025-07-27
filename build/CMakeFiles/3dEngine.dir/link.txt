@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/3dEngine.dir/home/sudonym/repos/3dEngine/test.cpp.o -o 3dEngine  /usr/lib/x86_64-linux-gnu/libSDL2.so /usr/lib/x86_64-linux-gnu/libSDL2main.a

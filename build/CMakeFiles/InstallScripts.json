@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/sudonym/repos/3dEngine/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
